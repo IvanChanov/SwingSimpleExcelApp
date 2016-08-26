@@ -1,8 +1,7 @@
 # SwingSimpleExcelApp
 
 - Excel application with three columns
-- First column contains String variables
-- Second column contains String variables
+- First and second columns contains String variables
 - Third column contains int variables
 - Add new row button
 - Delete selected row button
